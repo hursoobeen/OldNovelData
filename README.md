@@ -5,4 +5,4 @@
 > 이건 뭐고
 > > 이건 뭐지  
 
-* ㄴㄹㅇ
+[Google]([https://google.com, "google link](https://n.news.naver.com/mnews/ranking/article/629/0000294223?ntype=RANKING&sid=001))
