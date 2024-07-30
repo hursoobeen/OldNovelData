@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-30">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="남자" label="남자" />
+      <node id="삼촌" label="삼촌" />
+      <node id="부정" label="부정" />
+      <node id="가족" label="가족" />
+      <node id="밥" label="밥" />
+      <node id="긍정" label="긍정" />
+      <node id="된장국" label="된장국" />
+      <node id="병" label="병" />
+      <node id="파스" label="파스" />
+      <node id="그리움" label="그리움" />
+      <node id="생선" label="생선" />
+      <node id="죽음" label="죽음" />
+      <node id="피" label="피" />
+      <node id="고기" label="고기" />
+      <node id="계곡" label="계곡" />
+      <node id="자연" label="자연" />
+      <node id="흰꽃" label="흰꽃" />
+      <node id="가난" label="가난" />
+      <node id="거름" label="거름" />
+      <node id="김치찌개" label="김치찌개" />
+      <node id="여관" label="여관" />
+      <node id="음식" label="음식" />
+      <node id="하수도" label="하수도" />
+      <node id="허영" label="허영" />
+      <node id="부자" label="부자" />
+      <node id="화장비누" label="화장비누" />
+      <node id="병원" label="병원" />
+      <node id="독재" label="독재" />
+      <node id="최루탄" label="최루탄" />
+      <node id="장미꽃" label="장미꽃" />
+      <node id="꽃" label="꽃" />
+      <node id="행운목" label="행운목" />
+      <node id="소꼬리" label="소꼬리" />
+      <node id="바닷바람" label="바닷바람" />
+      <node id="카스텔라" label="카스텔라" />
+      <node id="노인" label="노인" />
+      <node id="로션" label="로션" />
+      <node id="위액" label="위액" />
+      <node id="어머니" label="어머니" />
+      <node id="바다" label="바다" />
+      <node id="배고픔" label="배고픔" />
+      <node id="소나무" label="소나무" />
+      <node id="세숫비누" label="세숫비누" />
+      <node id="돼지갈비" label="돼지갈비" />
+      <node id="풍족함" label="풍족함" />
+      <node id="고향" label="고향" />
+      <node id="사랑" label="사랑" />
+      <node id="굴비" label="굴비" />
+      <node id="한국" label="한국" />
+      <node id="담배" label="담배" />
+      <node id="녹차" label="녹차" />
+      <node id="외국인" label="외국인" />
+      <node id="풀" label="풀" />
+      <node id="라일락" label="라일락" />
+      <node id="진빵" label="진빵" />
+      <node id="카바이드" label="카바이드" />
+      <node id="키바이드" label="키바이드" />
+      <node id="질긴 고기" label="질긴 고기" />
+      <node id="꽃나무" label="꽃나무" />
+      <node id="연탄불" label="연탄불" />
+      <node id="공산품" label="공산품" />
+      <node id="합성수지" label="합성수지" />
+      <node id="무쇠" label="무쇠" />
+      <node id="흙" label="흙" />
+      <node id="먹물" label="먹물" />
+      <node id="때죽나무꽃" label="때죽나무꽃" />
+      <node id="과부, 홀아비" label="과부, 홀아비" />
+      <node id="외로움" label="외로움" />
+      <node id="우정" label="우정" />
+      <node id="곤드레" label="곤드레" />
+      <node id="할아버지" label="할아버지" />
+      <node id="배변" label="배변" />
+      <node id="발" label="발" />
+      <node id="서울" label="서울" />
+      <node id="자유" label="자유" />
+      <node id="교양" label="교양" />
+      <node id="도시" label="도시" />
+      <node id="두루마기" label="두루마기" />
+      <node id="술 " label="술 " />
+      <node id="타관" label="타관" />
+      <node id="죽" label="죽" />
+      <node id="투정" label="투정" />
+    </nodes>
+    <edges>
+      <edge source="남자" target="삼촌" id="0" />
+      <edge source="남자" target="발" id="1" />
+      <edge source="삼촌" target="부정" id="2" />
+      <edge source="삼촌" target="교양" id="3" />
+      <edge source="삼촌" target="긍정" id="4" />
+      <edge source="부정" target="파스" id="5" />
+      <edge source="부정" target="피" id="6" />
+      <edge source="부정" target="거름" id="7" />
+      <edge source="부정" target="여관" id="8" />
+      <edge source="부정" target="하수도" id="9" />
+      <edge source="부정" target="병원" id="10" />
+      <edge source="부정" target="최루탄" id="11" />
+      <edge source="부정" target="소꼬리" id="12" />
+      <edge source="부정" target="카스텔라" id="13" />
+      <edge source="부정" target="위액" id="14" />
+      <edge source="부정" target="바다" id="15" />
+      <edge source="부정" target="음식" id="16" />
+      <edge source="부정" target="노인" id="17" />
+      <edge source="부정" target="담배" id="18" />
+      <edge source="부정" target="질긴 고기" id="19" />
+      <edge source="부정" target="합성수지" id="20" />
+      <edge source="부정" target="먹물" id="21" />
+      <edge source="부정" target="과부, 홀아비" id="22" />
+      <edge source="부정" target="할아버지" id="23" />
+      <edge source="부정" target="배변" id="24" />
+      <edge source="부정" target="발" id="25" />
+      <edge source="부정" target="술 " id="26" />
+      <edge source="부정" target="죽" id="27" />
+      <edge source="가족" target="밥" id="28" />
+      <edge source="가족" target="된장국" id="29" />
+      <edge source="가족" target="고기" id="30" />
+      <edge source="가족" target="김치찌개" id="31" />
+      <edge source="가족" target="음식" id="32" />
+      <edge source="가족" target="소꼬리" id="33" />
+      <edge source="가족" target="어머니" id="34" />
+      <edge source="가족" target="굴비" id="35" />
+      <edge source="밥" target="긍정" id="36" />
+      <edge source="밥" target="어머니" id="37" />
+      <edge source="밥" target="우정" id="38" />
+      <edge source="긍정" target="된장국" id="39" />
+      <edge source="긍정" target="생선" id="40" />
+      <edge source="긍정" target="고기" id="41" />
+      <edge source="긍정" target="계곡" id="42" />
+      <edge source="긍정" target="흰꽃" id="43" />
+      <edge source="긍정" target="김치찌개" id="44" />
+      <edge source="긍정" target="음식" id="45" />
+      <edge source="긍정" target="화장비누" id="46" />
+      <edge source="긍정" target="장미꽃" id="47" />
+      <edge source="긍정" target="꽃" id="48" />
+      <edge source="긍정" target="행운목" id="49" />
+      <edge source="긍정" target="바닷바람" id="50" />
+      <edge source="긍정" target="로션" id="51" />
+      <edge source="긍정" target="어머니" id="52" />
+      <edge source="긍정" target="소나무" id="53" />
+      <edge source="긍정" target="세숫비누" id="54" />
+      <edge source="긍정" target="돼지갈비" id="55" />
+      <edge source="긍정" target="고향" id="56" />
+      <edge source="긍정" target="사랑" id="57" />
+      <edge source="긍정" target="굴비" id="58" />
+      <edge source="긍정" target="한국" id="59" />
+      <edge source="긍정" target="녹차" id="60" />
+      <edge source="긍정" target="외국인" id="61" />
+      <edge source="긍정" target="풀" id="62" />
+      <edge source="긍정" target="라일락" id="63" />
+      <edge source="긍정" target="진빵" id="64" />
+      <edge source="긍정" target="카바이드" id="65" />
+      <edge source="긍정" target="키바이드" id="66" />
+      <edge source="긍정" target="꽃나무" id="67" />
+      <edge source="긍정" target="연탄불" id="68" />
+      <edge source="긍정" target="무쇠" id="69" />
+      <edge source="긍정" target="흙" id="70" />
+      <edge source="긍정" target="때죽나무꽃" id="71" />
+      <edge source="긍정" target="곤드레" id="72" />
+      <edge source="긍정" target="서울" id="73" />
+      <edge source="긍정" target="두루마기" id="74" />
+      <edge source="긍정" target="도시" id="75" />
+      <edge source="긍정" target="타관" id="76" />
+      <edge source="병" target="파스" id="77" />
+      <edge source="병" target="병원" id="78" />
+      <edge source="병" target="카스텔라" id="79" />
+      <edge source="그리움" target="생선" id="80" />
+      <edge source="그리움" target="고향" id="81" />
+      <edge source="그리움" target="한국" id="82" />
+      <edge source="그리움" target="풀" id="83" />
+      <edge source="그리움" target="음식" id="84" />
+      <edge source="그리움" target="라일락" id="85" />
+      <edge source="그리움" target="카바이드" id="86" />
+      <edge source="그리움" target="키바이드" id="87" />
+      <edge source="그리움" target="꽃나무" id="88" />
+      <edge source="그리움" target="연탄불" id="89" />
+      <edge source="죽음" target="피" id="90" />
+      <edge source="계곡" target="자연" id="91" />
+      <edge source="자연" target="흰꽃" id="92" />
+      <edge source="자연" target="장미꽃" id="93" />
+      <edge source="자연" target="꽃" id="94" />
+      <edge source="자연" target="행운목" id="95" />
+      <edge source="자연" target="바닷바람" id="96" />
+      <edge source="자연" target="소나무" id="97" />
+      <edge source="가난" target="거름" id="98" />
+      <edge source="가난" target="여관" id="99" />
+      <edge source="가난" target="질긴 고기" id="100" />
+      <edge source="가난" target="먹물" id="101" />
+      <edge source="음식" target="배고픔" id="102" />
+      <edge source="하수도" target="허영" id="103" />
+      <edge source="부자" target="화장비누" id="104" />
+      <edge source="독재" target="최루탄" id="105" />
+      <edge source="노인" target="로션" id="106" />
+      <edge source="노인" target="위액" id="107" />
+      <edge source="노인" target="노인" id="108" />
+      <edge source="노인" target="할아버지" id="109" />
+      <edge source="노인" target="배변" id="110" />
+      <edge source="어머니" target="세숫비누" id="111" />
+      <edge source="어머니" target="무쇠" id="112" />
+      <edge source="어머니" target="흙" id="113" />
+      <edge source="바다" target="배고픔" id="114" />
+      <edge source="돼지갈비" target="풍족함" id="115" />
+      <edge source="풍족함" target="녹차" id="116" />
+      <edge source="풍족함" target="외국인" id="117" />
+      <edge source="풍족함" target="진빵" id="118" />
+      <edge source="사랑" target="사랑" id="119" />
+      <edge source="사랑" target="때죽나무꽃" id="120" />
+      <edge source="담배" target="담배" id="121" />
+      <edge source="공산품" target="합성수지" id="122" />
+      <edge source="과부, 홀아비" target="외로움" id="123" />
+      <edge source="우정" target="곤드레" id="124" />
+      <edge source="할아버지" target="술 " id="125" />
+      <edge source="서울" target="자유" id="126" />
+      <edge source="도시" target="두루마기" id="127" />
+      <edge source="도시" target="도시" id="128" />
+      <edge source="도시" target="타관" id="129" />
+      <edge source="죽" target="투정" id="130" />
+    </edges>
+  </graph>
+</gexf>
